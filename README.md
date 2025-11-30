@@ -46,9 +46,9 @@ This codebase serves as a reference implementation for **Senior iOS Architecture
 
 ### Features
 
-| **Measurement** | **History** | **AI Analysis** | **Insights** | **Paywall** |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="docs/assets/app_1.png" width="180" alt="Measurement" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> | <img src="docs/assets/app_2.png" width="180" alt="History" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> | <img src="docs/assets/app_3.png" width="180" alt="AI Analysis" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> | <img src="docs/assets/app_4.png" width="180" alt="Insights" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> | <img src="docs/assets/app_5.png" width="180" alt="Paywall" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> |
+| **Scanning** | **AI Chat** | **Result** | **Insights** |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/assets/app_1.png" width="200" alt="Scanning" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> | <img src="docs/assets/app_2.png" width="200" alt="AI Chat" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> | <img src="docs/assets/app_3.png" width="200" alt="Result" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> | <img src="docs/assets/app_4.png" width="200" alt="Insights" style="border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);" /> |
 
 </div>
 
