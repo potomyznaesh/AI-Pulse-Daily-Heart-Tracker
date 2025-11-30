@@ -17,4 +17,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build
-      run: xcodebuild build -project "Heart Rate.xcodeproj" -scheme "Heart Rate" -destination 'platform=iOS Simulator,name=iPhone 17,OS=latest' clean build
+      run: xcodebuild build -project "Heart Rate.xcodeproj" -scheme "Heart Rate" -destination 'platform=iOS Simulator,name=iPhone 17.6' clean build
