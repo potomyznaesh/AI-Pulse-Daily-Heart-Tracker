@@ -3,7 +3,7 @@ import NaturalLanguage
 
 class ClaudeService {
     
-    private let apiKey = "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"
+    private let apiKey = "YOUR_API_KEY_HERE"
     private let url = URL(string: "https://api.anthropic.com/v1/messages")!
     
     private func detectLanguage(from text: String) -> String {
